@@ -1,0 +1,51 @@
+
+#heading{
+    background-color: white;
+    height: 8%;
+    display: flex;
+}
+#title{
+    margin: auto;
+    width: 35%;
+}   
+h1{
+    text-align: left;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+    background-color: gainsboro;
+    margin: 0%;
+}
+#feed{
+    display: block;
+    background-color: gainsboro;
+}
+.photo{
+    background-color: white;
+    margin: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 35%;
+    display: block;
+}
+.top{
+    height: 5%;
+}
+.name{
+    float: left;
+    height: 100%;
+    line-height: 260%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 1000;
+    font-size: 110%;
+}
+.date{
+    float: right;
+    height: 100%;
+    line-height: 260%;
+    color: gray;
+    font-size: 110%;
+}
+img{
+    width: 100%;
+}
